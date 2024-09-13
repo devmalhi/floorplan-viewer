@@ -1,0 +1,22 @@
+{
+    "regions": [
+      { "start": { "x": 100, "y": 100 }, "end": { "x": 400, "y": 100 } },
+      { "start": { "x": 400, "y": 100 }, "end": { "x": 400, "y": 300 } },
+      { "start": { "x": 400, "y": 300 }, "end": { "x": 100, "y": 300 } },
+      { "start": { "x": 100, "y": 300 }, "end": { "x": 100, "y": 100 } }
+    ],
+    "doors": [
+      { "location": { "x": 240, "y": 100 }, "width": 50, "rotation": 0 }
+    ],
+    "furnitures": [
+      {
+        "minBound": { "x": 150, "y": 150 },
+        "maxBound": { "x": 200, "y": 200 },
+        "equipName": "Table",
+        "xPlacement": 150,
+        "yPlacement": 150,
+        "rotation": 0
+      }
+    ]
+  }
+  
